@@ -1,0 +1,14 @@
+.div-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    position:fixed;
+}
+.right-section{ 
+    background-color: lightpink;
+}
+.middle-section{
+    background-color: lightblue;
+}
+.left-section{
+    background-color: lightpink;
+}
