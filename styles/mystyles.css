@@ -1,3 +1,11 @@
+.main-body{
+    background-color: rgb(25,25,25);
+}
+
+
+
+
+
 .div-1{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -5,6 +13,9 @@
 }
 .right-section{ 
     background-color: lightpink;
+}
+.image-class1{
+    height:45px;
 }
 .middle-section{
     background-color: lightblue;
